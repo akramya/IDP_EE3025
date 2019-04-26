@@ -1,0 +1,30 @@
+set_io clk R9
+
+set_io data_in[0] T9
+set_io data_in[1] R10
+set_io data_in[2] T10
+set_io data_in[3] T11
+
+set_io data_in2[0] T13
+set_io data_in2[1] T14
+set_io data_in2[2] R14
+set_io data_in2[3] T15
+
+set_io initial_value[0] N6
+set_io initial_value[1] N7
+set_io initial_value[2] L7
+set_io initial_value[3] M8
+
+
+
+set_io rst_n G5
+
+set_io data_out_final[0] B7
+set_io data_out_final[1] A5
+set_io data_out_final[2] B6
+set_io data_out_final[3] A2	
+
+set_io counter_random[0] B3 
+set_io counter_random[1] C3
+set_io counter_random[2] B5
+set_io counter_random[3] B4
